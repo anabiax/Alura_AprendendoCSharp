@@ -1,0 +1,15 @@
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/bin/Debug/net7.0/SwitchCase
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/bin/Debug/net7.0/SwitchCase.deps.json
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/bin/Debug/net7.0/SwitchCase.runtimeconfig.json
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/bin/Debug/net7.0/SwitchCase.dll
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/bin/Debug/net7.0/SwitchCase.pdb
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.csproj.AssemblyReference.cache
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfoInputs.cache
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfo.cs
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.csproj.CoreCompileInputs.cache
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.dll
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/refint/SwitchCase.dll
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.pdb
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/SwitchCase.genruntimeconfig.cache
+/home/anasantos/AprendendoCSharpAlura/SwitchCase/obj/Debug/net7.0/ref/SwitchCase.dll

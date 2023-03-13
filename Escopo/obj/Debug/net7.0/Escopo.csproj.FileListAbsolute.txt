@@ -1,0 +1,15 @@
+/home/anasantos/AprendendoCSharpAlura/Escopo/bin/Debug/net7.0/Escopo
+/home/anasantos/AprendendoCSharpAlura/Escopo/bin/Debug/net7.0/Escopo.deps.json
+/home/anasantos/AprendendoCSharpAlura/Escopo/bin/Debug/net7.0/Escopo.runtimeconfig.json
+/home/anasantos/AprendendoCSharpAlura/Escopo/bin/Debug/net7.0/Escopo.dll
+/home/anasantos/AprendendoCSharpAlura/Escopo/bin/Debug/net7.0/Escopo.pdb
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.csproj.AssemblyReference.cache
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.AssemblyInfoInputs.cache
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.AssemblyInfo.cs
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.csproj.CoreCompileInputs.cache
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.dll
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/refint/Escopo.dll
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.pdb
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/Escopo.genruntimeconfig.cache
+/home/anasantos/AprendendoCSharpAlura/Escopo/obj/Debug/net7.0/ref/Escopo.dll

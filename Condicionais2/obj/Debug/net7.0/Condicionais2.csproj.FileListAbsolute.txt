@@ -1,0 +1,15 @@
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/bin/Debug/net7.0/Condicionais2
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/bin/Debug/net7.0/Condicionais2.deps.json
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/bin/Debug/net7.0/Condicionais2.runtimeconfig.json
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/bin/Debug/net7.0/Condicionais2.dll
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/bin/Debug/net7.0/Condicionais2.pdb
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.csproj.AssemblyReference.cache
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.AssemblyInfoInputs.cache
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.AssemblyInfo.cs
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.csproj.CoreCompileInputs.cache
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.dll
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/refint/Condicionais2.dll
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.pdb
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/Condicionais2.genruntimeconfig.cache
+/home/anasantos/AprendendoCSharpAlura/Condicionais2/obj/Debug/net7.0/ref/Condicionais2.dll

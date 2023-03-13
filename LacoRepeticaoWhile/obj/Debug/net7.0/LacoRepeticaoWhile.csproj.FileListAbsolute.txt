@@ -1,0 +1,15 @@
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/bin/Debug/net7.0/LacoRepeticaoWhile
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/bin/Debug/net7.0/LacoRepeticaoWhile.deps.json
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/bin/Debug/net7.0/LacoRepeticaoWhile.runtimeconfig.json
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/bin/Debug/net7.0/LacoRepeticaoWhile.dll
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/bin/Debug/net7.0/LacoRepeticaoWhile.pdb
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.csproj.AssemblyReference.cache
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.AssemblyInfoInputs.cache
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.AssemblyInfo.cs
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.csproj.CoreCompileInputs.cache
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.dll
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/refint/LacoRepeticaoWhile.dll
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.pdb
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/LacoRepeticaoWhile.genruntimeconfig.cache
+/home/anasantos/AprendendoCSharpAlura/LacoRepeticaoWhile/obj/Debug/net7.0/ref/LacoRepeticaoWhile.dll

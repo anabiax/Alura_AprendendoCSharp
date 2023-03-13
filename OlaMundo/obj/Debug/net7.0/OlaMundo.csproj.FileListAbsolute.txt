@@ -1,0 +1,15 @@
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/bin/Debug/net7.0/OlaMundo
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/bin/Debug/net7.0/OlaMundo.deps.json
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/bin/Debug/net7.0/OlaMundo.runtimeconfig.json
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/bin/Debug/net7.0/OlaMundo.dll
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/bin/Debug/net7.0/OlaMundo.pdb
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.csproj.AssemblyReference.cache
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.AssemblyInfoInputs.cache
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.AssemblyInfo.cs
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.csproj.CoreCompileInputs.cache
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.dll
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/refint/OlaMundo.dll
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.pdb
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/OlaMundo.genruntimeconfig.cache
+/home/anasantos/AprendendoCSharpAlura/OlaMundo/obj/Debug/net7.0/ref/OlaMundo.dll

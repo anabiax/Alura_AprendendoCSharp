@@ -1,0 +1,15 @@
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/bin/Debug/net7.0/CriandoVariaveis
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/bin/Debug/net7.0/CriandoVariaveis.deps.json
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/bin/Debug/net7.0/CriandoVariaveis.runtimeconfig.json
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/bin/Debug/net7.0/CriandoVariaveis.dll
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/bin/Debug/net7.0/CriandoVariaveis.pdb
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.csproj.AssemblyReference.cache
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.AssemblyInfoInputs.cache
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.AssemblyInfo.cs
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.csproj.CoreCompileInputs.cache
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.dll
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/refint/CriandoVariaveis.dll
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.pdb
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/CriandoVariaveis.genruntimeconfig.cache
+/home/anasantos/AprendendoCSharpAlura/CriandoVariaveis/obj/Debug/net7.0/ref/CriandoVariaveis.dll

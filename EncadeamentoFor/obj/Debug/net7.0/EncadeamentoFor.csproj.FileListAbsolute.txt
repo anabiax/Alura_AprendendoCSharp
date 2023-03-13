@@ -1,0 +1,15 @@
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/bin/Debug/net7.0/EncadeamentoFor
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/bin/Debug/net7.0/EncadeamentoFor.deps.json
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/bin/Debug/net7.0/EncadeamentoFor.runtimeconfig.json
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/bin/Debug/net7.0/EncadeamentoFor.dll
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/bin/Debug/net7.0/EncadeamentoFor.pdb
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.csproj.AssemblyReference.cache
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.AssemblyInfoInputs.cache
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.AssemblyInfo.cs
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.csproj.CoreCompileInputs.cache
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.dll
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/refint/EncadeamentoFor.dll
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.pdb
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/EncadeamentoFor.genruntimeconfig.cache
+/home/anasantos/AprendendoCSharpAlura/EncadeamentoFor/obj/Debug/net7.0/ref/EncadeamentoFor.dll
