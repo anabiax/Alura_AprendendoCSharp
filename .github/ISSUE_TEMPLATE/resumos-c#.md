@@ -1,5 +1,5 @@
 ---
-name: Resumos
+name: Resumos C#
 about: Descreva os resumos dos tópicos estudados C#
 title: ''
 labels: ''
